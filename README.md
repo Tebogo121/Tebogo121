@@ -1,4 +1,4 @@
-<h1 align="left">👨‍💻 Tebogo Mokwena</h1>
+<h1 align="left">👨‍💻 Tebogo May Mokwena</h1>
 
 <p align="left">
 <strong>Full Stack Web Developer | AI-Integrated Training</strong><br>
